@@ -7,7 +7,7 @@
     <title>Meu portfólio</title>
 </head>
 <body>
-    <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
+    <img src="img/avatar-perfil.png" alt="avatar do Nathan" srcset="">
     <p>Eu sou Nathan</p>
     <h1>Eu ensino Programação</h1>
     <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos que já desenvolvi! </p>
