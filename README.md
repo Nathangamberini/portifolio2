@@ -7,6 +7,7 @@
     <title>Meu portfólio</title>
 </head>
 <body>
+    <header class="container">
     <img src="img/![militar](https://github.com/user-attachments/assets/7a0a43fc-453e-43f8-81be-292206ba98a2)
 " alt="avatar do Nathan" srcset="">
     <p>Eu sou Nathan</p>
@@ -19,5 +20,6 @@
             <p>leva regras ao pé da letra</p>
             <p>Precisão e atenção aos detalhes</p>
     </div>
+</header>
 </body>
 </html>
