@@ -12,7 +12,7 @@
 " alt="avatar do Nathan" srcset="">
     <p>Eu sou Nathan</p>
     <h1>Sou estudante do ensino médio</h1>
-    <p>já fiz alguns cursos de programação como desenvolvimento em pyton e manuntenção de maquinas, mas gosto bastante da area de quimica e hitória, tenho interesse em me alistar no exercito, porém caso eu não consiga, gostaria de fazer faculddade de quimica e me especializar em quimico forensce</p>
+    <p>já fiz alguns cursos de programação como desenvolvimento em pyton e manuntenção de maquinas, mas gosto bastante da area de quimica e hitória, tenho interesse em me alistar no exercito, porém caso eu não consiga, gostaria de fazer faculdade de quimica e me especializar em quimico forensce</p>
     <p>Minhas habilidades</p>
     <div>
             <p>administração de servidor</p>
