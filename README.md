@@ -31,7 +31,7 @@
                         <h5 class="card-title">o que é este projeto?</h5>
                         <p class="card-text">este projeto é uma pagina da web.</p>
                         <a href="#" class="btn btn-primary">veja o projeto</a>
-                        <button type="button" class="btn btn-link"></button>
+                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">Veja o projeto</button>
                     </div>
                 </div>
         </div>
