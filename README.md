@@ -28,13 +28,25 @@
                 <div class="card" style="width: 18rem;">
                     <img src="..." class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">o que é este projeto?</h5>
+                        <p class="card-text">este projeto é uma pagina da web.</p>
+                        <a href="#" class="btn btn-primary">veja o projeto</a>
+                        <button type="button" class="btn btn-link"></button>
                     </div>
                 </div>
         </div>
         
     </main>
+
+//Código omitido
+
+<footer class="container py-5">
+    <h2>Entre em contato</h2>
+    <div>
+        <a href="https://github.com/femascheti">GitHub</a>
+    </div>
+    <p class="my-5 text-center">© Copyright 2024. Produzido por Fernanda Mascheti</p>
+</footer>
+
 </body>
 </html>
